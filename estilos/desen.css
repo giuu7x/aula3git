@@ -11,7 +11,7 @@ body{
 #container{
     position: relative;
     width: 100%;
-    padding-top: 95px;
+    padding-top: 105px;
 }
 header{
     margin-top: -10px;
@@ -49,6 +49,7 @@ main{
     height: 100px;
    position: fixed;
    margin-top: -95px;
+   color: aliceblue;
 
 }
 nav ul {
