@@ -1,3 +1,23 @@
+@font-face {
+    font-family: "Godofwar";
+    src: url(../fontes/godofwar/GODOFWAR.TTF);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+
+@font-face {
+    font-family: "Angelwish";
+    src: url(../fontes/angel_wish/Angel\ wish.ttf);
+}
+
+@font-face {
+    font-family: "Soccer";
+    src: url(../fontes/soccer_dance/SOCCER.TTF);
+}
+
+
 *{
     margin: 0;
     padding: 0;
@@ -5,7 +25,10 @@
 
 body{
     background-color: rgb(255, 255, 255);
-    font-family: Arial, Helvetica, sans-serif;
+    background-image: url('../imgs/15187163-fundo-de-site-moderno-futurista-de-conexao-de-mapa-do-mundo-ou-de-pagina-de-capa-para-conceito-de-tecnologia-e-financas-e-empresa-futura-de-educacao-vetor.jpg');
+    background-size: cover;  
+    background-position: center center;  
+    background-attachment: fixed;  
     
 }
 #container{
@@ -95,3 +118,13 @@ main li a:hover {
 nav .active {
     background-color: SteelBlue;
 }
+#txt1 {
+    font-family: "Godofwar";
+    src: url(C:\Users\PC\Desktop\exercicio1-GIULIANOOLIVEIRA\fontes\fontes\godofwar);
+}
+nav ul li a {
+ 
+    font-family: "Angelwish";
+    src: url(../fontes/angel_wish/Angel\ wish.ttf);
+}
+
